@@ -2,7 +2,7 @@
 Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 
 
-Nama Anggota Kelompok 8 : 
+Nama Anggota Kel. 8 S1SE-03-B : 
 1. 19104036, Syahril Arif Kurniawan Hamzah 
 2. 19104056, Rahmat Dian Rifa'i 
 3. 19104073, Anggeralmasih Wiradika Rusmana 
