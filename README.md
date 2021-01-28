@@ -21,3 +21,5 @@ Cara penggunaan :
 2. buka terminal arahkan ke prjoect lalu ketikan npm install
 ...
 
+
+Class Diagram :
