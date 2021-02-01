@@ -17,9 +17,15 @@ Yang dibutuhkan :
 
 Cara penggunaan :
 
-1. clone terlebih dahulu repo ini
-2. buka terminal arahkan ke prjoect lalu ketikan npm install
-...
+1. Clone terlebih dahulu repo ini
+2. Run program dengan VSCode atau Repl.it
+3. Akan terbuka terminal yang mengarah ke project (VSCode)
+4. Pilih 'Isi Data Diri', lalu isikan data diri anda
+5. Pilih jenis kendaraan yang akan dipilih
+6. Pilih kendaraan, lalu masukkan ID Pemesan
+7. Masukkan berapa lama penyewaan
+8. Pilih 'Lihat Pesanan' untuk melihat data pesanan
+9. Pilih 'Keluar' untuk keluar dari program
 
 
 Class Diagram :
