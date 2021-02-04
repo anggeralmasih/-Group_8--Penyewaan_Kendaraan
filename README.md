@@ -11,8 +11,9 @@ Nama Anggota Kel. 8 S1SE-03-B :
 Yang dibutuhkan :
 1. Node Js
 2. CodeRunner
-3. Visual Code
-4. Github
+3. Visual Studio Code
+4. Repl.it
+5. Github
 
 
 Cara penggunaan :
