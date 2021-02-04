@@ -15,6 +15,12 @@ Yang dibutuhkan :
 4. Repl.it
 5. Github
 
+Konsep OOP :
+1. Constructor Overloading
+2. Object
+3. Object Constructor
+4. Object Pattern
+5. Function
 
 Cara penggunaan :
 
@@ -28,5 +34,3 @@ Cara penggunaan :
 8. Pilih 'Lihat Pesanan' untuk melihat data pesanan
 9. Pilih 'Keluar' untuk keluar dari program
 
-
-Class Diagram :
