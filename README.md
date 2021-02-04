@@ -15,7 +15,7 @@ Yang dibutuhkan :
 4. Repl.it
 5. Github
 
-Konsep OOP :
+Konsep OOP yang digunakan :
 1. Constructor Overloading
 2. Object
 3. Object Constructor
