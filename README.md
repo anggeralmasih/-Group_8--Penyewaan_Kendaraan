@@ -35,3 +35,4 @@ Cara penggunaan :
 9. Pilih 'Keluar' untuk keluar dari program
 
 Link video Youtube :
+https://www.youtube.com/watch?v=6hvYLoiZ-uU
