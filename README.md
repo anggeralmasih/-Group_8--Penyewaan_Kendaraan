@@ -35,7 +35,7 @@ Cara penggunaan :
 9. Pilih 'Keluar' untuk keluar dari program
 
 Class Diagram :
-<img src : "https://github.com/anggeralmasih/-Group_8--Penyewaan_Kendaraan/blob/main/Class%20Diagram/Class%20Diagram%20Kel.%208.png">
+<img src = "https://github.com/anggeralmasih/-Group_8--Penyewaan_Kendaraan/blob/main/Class%20Diagram/Class%20Diagram%20Kel.%208.png">
 
 Link video Youtube :
 https://www.youtube.com/watch?v=6hvYLoiZ-uU
