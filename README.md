@@ -2,27 +2,27 @@
 Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 
 
-Nama Anggota Kel. 8 S1SE-03-B : 
+## Nama Anggota Kel. 8 S1SE-03-B : 
 1. 19104036, Syahril Arif Kurniawan Hamzah 
 2. 19104056, Rahmat Dian Rifa'i 
 3. 19104073, Anggeralmasih Wiradika Rusmana 
 
 
-Yang dibutuhkan :
+## Yang dibutuhkan :
 1. Node Js
 2. CodeRunner
 3. Visual Studio Code
 4. Repl.it
 5. Github
 
-Konsep OOP yang digunakan :
+## Konsep OOP yang digunakan :
 1. Constructor Overloading
 2. Object
 3. Object Constructor
 4. Object Pattern
 5. Function
 
-Cara penggunaan :
+## Cara penggunaan :
 
 1. Clone terlebih dahulu repo ini
 2. Run program dengan VSCode atau Repl.it
@@ -34,7 +34,8 @@ Cara penggunaan :
 8. Pilih 'Lihat Pesanan' untuk melihat data pesanan
 9. Pilih 'Keluar' untuk keluar dari program
 
-Class Diagram :
+## Class Diagram :
+
 <img src = "https://github.com/anggeralmasih/-Group_8--Penyewaan_Kendaraan/blob/main/Class%20Diagram/Class%20Diagram%20Kel.%208.png">
 
 Link video Youtube :
