@@ -8,7 +8,7 @@ Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 3. 19104073, Anggeralmasih Wiradika Rusmana 
 
 ## Deskripsi Umum
-Program yang kami buat adalah Penyewaan Kendaraan, merupakan yang digunakan untuk memesan atau menyewa suatu kendaraan umum roda dua (motor) dan roda empat (mobil).
+Program yang kami buat adalah Penyewaan Kendaraan, merupakan program yang digunakan untuk memesan atau menyewa suatu kendaraan umum seperti roda dua (motor) dan roda empat (mobil).
 
 ## Latar Belakang 
   - Mobil dan motor adalah salah satu alat transportasi yang banyak digunakan dalam kehidupan sahari–hari. Mobil dan motor yang tersedia banyak sekali bentuknya. Modelnya juga sangat bagus dan bervariasi. Dua jenis kendaraan ini banyak dimanfaatkan masyarakat sebagai alat transportasi. Rental adalah suatu bidang usaha dibidang jasa yang dalam kegiatan usahanya terdapat unsur yaitu sewa menyewa atau bisa diartikan suatu perjanjian atau kesepakatan dimana penyewa harus membayarkan atau memberikan imbalan atau manfaat dari benda atau barang yang dimiliki oleh pemilik barang yang dipinjamkan.
@@ -57,12 +57,11 @@ Beberapa fitur yang tersedia :
 8. Pilih 'Lihat Pesanan' untuk melihat data pesanan
 9. Pilih 'Keluar' untuk keluar dari program
 
-## Package yang Digunakan
+## Package yang Digunakan :
 https://github.com/anggeralmasih/-Group_8--Penyewaan_Kendaraan/tree/main/TUBES
 
-## Demo Project
+## Demo Project :
 https://repl.it/@anggeralmasih/Rental#index.js
 
 ## Link video Youtube :
-
 https://www.youtube.com/watch?v=6hvYLoiZ-uU
