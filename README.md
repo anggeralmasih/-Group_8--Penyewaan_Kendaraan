@@ -8,16 +8,14 @@ Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 3. 19104073, Anggeralmasih Wiradika Rusmana 
 
 ## Latar Belakang 
-  Mobil dan motor adalah salah satu alat transportasi yang banyak digunakan dalam kehidupan sahari–hari. Mobil dan motor yang tersedia banyak sekali bentuknya. Modelnya juga sangat bagus dan bervariasi. Mobil dan motor juga banyak dimanfaatkan oleh orang-orang sebagai alat transportasi. Rental adalah suatu bidang usaha dibidang jasa yang dalam kegiatan usahanya terdapat unsur yaitu sewa menyewa adalah suatu perjanjian atau kesepakatan dimana penyewa harus membayarkan atau memberikan imbalan atau manfaat dari benda atau barang yang dimiliki oleh pemilik barang yang dipinjamkan.
-  Merujuk dari latar belakang tersebut maka pada penelitian ini diharapkan mampu untuk membuat alternatif pemesanan rental mobil dan motor yang efektif dan efisien yaitu dengan membuat aplikasi/program pemesanan rental mobil dan motor pada mobile device di sistem operasi android. Keuntungan yang didapat dari penelitian ini ialah pada aplikasi yang dibuat memungkinkan pemesanan rental mobil dan motor dapat dilakukan dengan cara yang mudah dan cepat. Aplikasi yang akan dibuat menggunakan aplikasi internet mobile ini diharapkan memiliki transfer data yang lebih cepat dan access time yang lebih cepat pula untuk melakukan pemesanan.
-  Berdasarkan uraian latar belakang di atas, penulis bermaksud merancang sebuah aplikasi pemesanan dalam rental mobil dan motor. Oleh karena itu, penulis memilih topik untuk skripsi dengan judul “Aplikasi Pemesanan Penyewaan Rental Mobil dan motor" menggunakan Java script
-  
+  Mobil dan motor adalah salah satu alat transportasi yang banyak digunakan dalam kehidupan sahari–hari. Mobil dan motor yang tersedia banyak sekali bentuknya. Modelnya juga sangat bagus dan bervariasi. Dua jenis kendaraan ini banyak dimanfaatkan oleh orang-orang sebagai alat transportasi. Rental adalah suatu bidang usaha dibidang jasa yang dalam kegiatan usahanya terdapat unsur yaitu sewa menyewa atau bisa diartikan suatu perjanjian atau kesepakatan dimana penyewa harus membayarkan atau memberikan imbalan atau manfaat dari benda atau barang yang dimiliki oleh pemilik barang yang dipinjamkan.
+  Merujuk dari latar belakang tersebut maka tim kami mengharapkan program yang dibuat mampu menjadi alternatif pemesanan rental mobil dan motor yang efektif dan efisien. Keuntungan yang didapat aplikasi/program yang dibuat memungkinkan pemesanan rental mobil dan motor serta penyewaanya dapat dilakukan dengan cara yang mudah dan cepat. 
+ 
 ## Tujuan
-Tujuan dilakukannya penelitian ini adalah membangun sistem informasi web portal rental mobil untuk mempermudah penegelolaan data rental dan mendapatkan informasi jasa rental mobil di Purwokerto
-/////////////////////////////////////
-Tujuan yang ingin dicapai penulis berdasarkan rumusan masalah yang telah diuraikan sebelumnya antara lain :
+Tujuan dibuatnya program "Penyewaan Kendaraan" antara lain :
 1. Memudahkan pengelolaan informasi usaha rental mobil/motor.
-2. Memudahkan konsumen mendapatkan informasi yang diberikan.
+2. Memudahkan konsumen dalam menyewa suatu kendaraan.
+3. 
 
 ## Class Diagram :
 
