@@ -31,21 +31,21 @@ Beberapa fitur yang tersedia :
 
 <img src = "https://github.com/anggeralmasih/-Group_8--Penyewaan_Kendaraan/blob/main/Class%20Diagram/Class%20Diagram%20Kel.%208.png">
 
-## Yang dibutuhkan :
+## Yang Dibutuhkan :
 1. Node Js
 2. CodeRunner
 3. Visual Studio Code
 4. Repl.it
 5. Github
 
-## Konsep OOP yang digunakan :
+## Konsep OOP yang Digunakan :
 1. Constructor Overloading
 2. Object
 3. Object Constructor
 4. Object Pattern
 5. Function
 
-## Cara penggunaan :
+## Cara Penggunaan :
 
 1. Clone terlebih dahulu repo ini
 2. Run program dengan VSCode atau Repl.it
@@ -57,6 +57,11 @@ Beberapa fitur yang tersedia :
 8. Pilih 'Lihat Pesanan' untuk melihat data pesanan
 9. Pilih 'Keluar' untuk keluar dari program
 
+## Package yang Digunakan
+
+
+## Demo Project
+https://repl.it/@anggeralmasih/Rental#index.js
 
 ## Link video Youtube :
 
