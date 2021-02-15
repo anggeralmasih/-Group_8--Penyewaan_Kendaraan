@@ -78,8 +78,8 @@ var kendaraan = (function(){
     console.log('======================')
     console.log('Pilih Mobil')
     console.log('======================')
-    console.log('1. Avanza | Rp 400.000 / hari')
-    console.log('2. Xenia  | Rp 300.000 / hari')
+    console.log('1. Avanza | Rp 250.000 / hari')
+    console.log('2. Xenia  | Rp 250.000 / hari')
     console.log('3. Jazz   | Rp 350.000 / hari')
     console.log('4. Yaris  | Rp 400.000 / hari')
     console.log('5. Agya   | Rp 250.000 / hari')
@@ -201,7 +201,7 @@ do {
 
          // Jika input ID pemesan benar
          if(array[indexData]){
-         array[indexData].totalSewa = kendaraan.Rental(400000, 1).totalSewa
+         array[indexData].totalSewa = kendaraan.Rental(250000, 1).totalSewa
          array[indexData].pilih1 = 'Avanza'
 
          // Jika salah
@@ -213,7 +213,7 @@ do {
          
          // Jika input ID pemesan benar
          if(array[indexData]){
-         array[indexData].totalSewa = kendaraan.Rental(300000, 1).totalSewa
+         array[indexData].totalSewa = kendaraan.Rental(250000, 1).totalSewa
          array[indexData].pilih1 = 'Xenia'
 
          // Jika salah
