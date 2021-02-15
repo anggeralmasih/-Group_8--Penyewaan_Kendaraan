@@ -67,10 +67,10 @@ var kendaraan = (function(){
     console.log('======================')
     console.log('Pilih Motor')
     console.log('======================')
-    console.log('1. Honda Vario | Rp 80.000 / hari')
-    console.log('2. Honda Beat  | Rp 70.000 / hari')
-    console.log('3. Yamaha Nmax | Rp 100.000 / hari')
-    console.log('4. Yamaha Mio  | Rp 50.000 / hari') 
+    console.log('1. Honda Vario | Rp 55.000 / hari')
+    console.log('2. Honda Beat  | Rp 45.000 / hari')
+    console.log('3. Yamaha Nmax | Rp 70.000 / hari')
+    console.log('4. Yamaha Mio  | Rp 40.000 / hari') 
   }
   
 //Method roda 4 atau mobil
@@ -130,7 +130,7 @@ do {
 
         // Jika input ID pemesan benar
         if(array[indexData]){
-        array[indexData].totalSewa =  kendaraan.Rental(80000, 1).totalSewa
+        array[indexData].totalSewa =  kendaraan.Rental(55000, 1).totalSewa
         array[indexData].pilih1 = 'Honda Vario'
 
         // Jika salah
@@ -142,7 +142,7 @@ do {
         
         // Jika input ID pemesan benar
         if(array[indexData]){ 
-        array[indexData].totalSewa = kendaraan.Rental(70000, 1).totalSewa
+        array[indexData].totalSewa = kendaraan.Rental(45000, 1).totalSewa
         array[indexData].pilih1 = 'Honda Beat'
 
         // Jika salah
@@ -154,7 +154,7 @@ do {
         
         // Jika input ID pemesan benar
         if(array[indexData]){
-        array[indexData].totalSewa = kendaraan.Rental(100000, 1).totalSewa
+        array[indexData].totalSewa = kendaraan.Rental(70000, 1).totalSewa
         array[indexData].pilih1 = 'Yamaha Nmax'
 
         // Jika salah
@@ -166,7 +166,7 @@ do {
          
         // Jika input ID pemesan benar
         if(array[indexData]){
-        array[indexData].totalSewa = kendaraan.Rental(50000, 1).totalSewa
+        array[indexData].totalSewa = kendaraan.Rental(40000, 1).totalSewa
         array[indexData].pilih1 = 'Yamaha Mio'
 
         // Jika salah
