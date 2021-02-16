@@ -8,7 +8,7 @@ Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 3. 19104073, Anggeralmasih Wiradika Rusmana 
 
 ## Deskripsi Umum
-Program yang kami buat adalah Penyewaan Kendaraan, merupakan program yang digunakan untuk memesan atau menyewa suatu kendaraan umum seperti roda dua (motor) dan roda empat (mobil).
+Program yang kami buat adalah Penyewaan Kendaraan, merupakan program yang digunakan untuk memesan atau menyewa suatu kendaraan bermotor seperti roda dua (motor) dan roda empat (mobil). Program ini menggunakan bahasa pemrograman JavaScript dengan mengimplementasikan beberapa konsep OOP.
 
 ## Latar Belakang 
   - Mobil dan motor adalah salah satu alat transportasi yang banyak digunakan dalam kehidupan sahari–hari. Mobil dan motor yang tersedia banyak sekali bentuknya. Modelnya juga sangat bagus dan bervariasi. Dua jenis kendaraan ini banyak dimanfaatkan masyarakat sebagai alat transportasi. Rental adalah suatu bidang usaha dibidang jasa yang dalam kegiatan usahanya terdapat unsur yaitu sewa menyewa atau bisa diartikan suatu perjanjian atau kesepakatan dimana penyewa harus membayarkan atau memberikan imbalan atau manfaat dari benda atau barang yang dimiliki oleh pemilik barang yang dipinjamkan.
