@@ -3,9 +3,9 @@ Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 
 
 ## Nama Anggota Kel. 8 S1SE-03-B : 
-1. 19104036, Syahril Arif Kurniawan Hamzah 
-2. 19104056, Rahmat Dian Rifa'i 
-3. 19104073, Anggeralmasih Wiradika Rusmana 
+1. 19104036  Syahril Arif Kurniawan Hamzah 
+2. 19104056  Rahmat Dian Rifa'i 
+3. 19104073  Anggeralmasih Wiradika Rusmana 
 
 ## Deskripsi Umum
 Program yang kami buat adalah Penyewaan Kendaraan, merupakan program yang digunakan untuk memesan atau menyewa suatu kendaraan bermotor seperti roda dua (motor) dan roda empat (mobil). Program ini menggunakan bahasa pemrograman JavaScript dengan mengimplementasikan beberapa konsep OOP.
@@ -18,8 +18,8 @@ Program yang kami buat adalah Penyewaan Kendaraan, merupakan program yang diguna
 Tujuan dibuatnya program "Penyewaan Kendaraan" antara lain :
 1. Memudahkan pengelolaan informasi usaha rental mobil/motor.
 2. Harga yang cukup terjangkau bagi semua kalangan masyarakat.
-2. Memudahkan konsumen dalam menyewa suatu kendaraan.
-3. Efektif dan efisien dalam penggunaan waktunya.
+3. Memudahkan konsumen dalam menyewa suatu kendaraan.
+4. Efektif dan efisien dalam penggunaan waktunya.
 
 ## Fitur
 Beberapa fitur yang tersedia : 
