@@ -9,6 +9,15 @@ Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 2. 19104056  Rahmat Dian Rifa'i 
 3. 19104073  Anggeralmasih Wiradika Rusmana 
 
+
+## Kontribusi
+Syahril Arif Kurniawan Hamzah   (class diagram, sebagian laporan/dokumentasi)
+Rahmat Dian Rifa'i              (coding dan laporan sebagian, pemrosesan video)
+Anggeralmasih Wiradika Rusmana  (codingan dan sebagian laporan/dokumentasi)
+
+
+
+
 ## Deskripsi Umum
 
 Program yang kami buat adalah Penyewaan Kendaraan, merupakan program yang digunakan untuk memesan atau menyewa suatu kendaraan bermotor seperti roda dua (motor) dan roda empat (mobil). Program ini menggunakan bahasa pemrograman JavaScript dengan mengimplementasikan beberapa konsep OOP.
