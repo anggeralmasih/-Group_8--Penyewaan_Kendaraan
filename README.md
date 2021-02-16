@@ -11,9 +11,9 @@ Dokumentasi Mengenai Tugas Besar Pemrograman Berorientasi Objek
 
 
 ## Kontribusi
-Syahril Arif Kurniawan Hamzah   (class diagram, sebagian laporan/dokumentasi)
-Rahmat Dian Rifa'i              (coding dan laporan sebagian, pemrosesan video)
-Anggeralmasih Wiradika Rusmana  (codingan dan sebagian laporan/dokumentasi)
+-Syahril Arif Kurniawan Hamzah   (class diagram, sebagian laporan/dokumentasi)
+-Rahmat Dian Rifa'i              (coding dan laporan sebagian, pemrosesan video)
+-Anggeralmasih Wiradika Rusmana  (codingan dan sebagian laporan/dokumentasi)
 
 
 
